@@ -1,0 +1,218 @@
+{
+  "municipi": "Palafolls",
+  "provincia": "Barcelona",
+  "ccaa": "Catalunya",
+  "actualitzat": "2017-01-27",
+  "resum_ordenanca": "Regulació del trànsit i circulació a Palafolls",
+  "articles": [
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir una bicicleta amb una taxa d'alcohol en aire espirat superior a 0,50 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle amb una taxa d'alcohol a la sang superior a 1 gram per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle amb una taxa d'alcohol en aire espirat superior a 0,50 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat a transport de mercaderies amb MMA superior a 3.500 kgs amb una taxa d'alcohol a la sang superior a 0,6 grams per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat a transport de mercaderies amb MMA superior a 3.500 kgs amb una taxa d'alcohol en aire espirat superior a 0,30 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat a transport de viatgers de més de nou places amb una taxa d'alcohol a la sang superior a 0,6 grams per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat a transport de viatgers de més de nou places amb una taxa d'alcohol en aire espirat superior a 0,30 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle de servei públic amb una taxa d'alcohol a la sang superior a 0,6 grams per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle de servei públic amb una taxa d'alcohol en aire espirat superior a 0,30 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat al transport escolar o de menors amb una taxa d'alcohol a la sang superior a 0,6 grams per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat al transport escolar o de menors amb una taxa d'alcohol en aire espirat superior a 0,30 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat a transport de mercaderies perilloses amb una taxa d'alcohol a la sang superior a 0,6 grams per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat a transport de mercaderies perilloses amb una taxa d'alcohol en aire espirat superior a 0,30 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle de servei d'urgència amb una taxa d'alcohol a la sang superior a 0,6 grams per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle de servei d'urgència amb una taxa d'alcohol en aire espirat superior a 0,30 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat a transports especials amb una taxa d'alcohol a la sang superior a 0,6 grams per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle destinat a transports especials amb una taxa d'alcohol en aire espirat superior a 0,30 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle amb un permís de conducció d'antiguitat inferior als dos anys amb una taxa d'alcohol a la sang superior a 0,6 grams per litre",
+      "gravetat": "MG",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    },
+    {
+      "omc": "",
+      "rgc": "",
+      "ap": "",
+      "sub": "",
+      "descripcio": "Conduir un vehicle amb un permís de conducció d'antiguitat inferior als dos anys amb una taxa d'alcohol en aire espirat superior a 0,30 mil·ligrams per litre",
+      "gravetat": "G",
+      "import": 1000,
+      "reduccio50": 500,
+      "punts": 0
+    }
+  ]
+}
