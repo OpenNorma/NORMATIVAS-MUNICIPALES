@@ -1,0 +1,1252 @@
+INSTRUCCIONS CLAU DGT — Selecció per a ús policial
+Font: Direcció General de Trànsit / Ministeri Interior
+======================================================================
+
+CONTEXT IMPORTANT:
+- Instrucció 99/S-36: Conductor sense permís → taxa màx. 0,15 mg/l aire (igual que conductor novel <2 anys)
+- Ordre ICT/155/2020: Marge error etilòmetre homologat ±5% o ±0,005 mg/l (el que sigui major)
+- Instrucció 14/S-134: Per infraccions d'alcohol, la multa i la detracció de punts es tramiten juntes en el mateix expedient
+- VMP sense assegurança (Ley 5/2025 + RD 52/2026): MUY GRAVE art.2.1 RDL 8/2004 → INMOVILITZACIÓ art.104/105 TRLSV
+
+======================================================================
+
+### INSTRUCCIÓ 14/S-134 — Denuncia, sanció i detracció de punts en infraccions d'alcohol
+
+Asunto: Denuncia, sanción y detracción de
+puntos en infracciones de alcohol
+
+INSTRUCCIÓN - 14/S-134
+
+Con la aprobación de la Ley 6/2014, de 7 de abril, por la que se modifica el
+texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y
+Seguridad Vial, aprobado por el Real Decreto Legislativo 339/1990, de 2 de marzo,
+se han recibido varias consultas relativas a infracciones relativas a alcohol, así
+como su régimen sancionador y de detracción de puntos. Por este motivo, es
+necesario aclarar varias cuestiones sobre esta materia.
+
+1. Denuncia
+Los etilómetros son aparatos sometidos a control metrológico, regulados en
+la Orden ITC/3707/2006, de 22 de noviembre, por la que se regula el control
+metrológico del Estado de los instrumentos destinados a medir la concentración de
+alcohol en el aire espirado. Por este motivo, el artículo 70.2 del texto articulado
+establece que “Los instrumentos, aparatos o medios y sistemas de medida que
+sean utilizados para la formulación de denuncias por infracciones a la normativa de
+tráfico estarán sometidos a control metrológico en los términos establecidos por la
+Ley 3/1985, de 18 de marzo, de Metrología y su normativa de desarrollo”.
+En aplicación de la normativa citada, para poder formular denuncia por
+infracción al artículo 20 del Reglamento General de Circulación, el agente de la
+autoridad encargado de la realización de la prueba de alcoholemia deberá tener en
+cuenta el error máximo permitido que se contiene en el cuadro del presente escrito.
+En caso de que, al tener en cuenta este error máximo permitido, la tasa que arroje
+el etilómetro no llegue a los límites descritos en el cuadro, no procederá formular
+denuncia.
+En los casos en los que si proceda la formulación de la denuncia, los
+agentes deberán consignar, en el boletín y en la documentación complementaria,
+siempre la tasa que arroje el etilómetro, que es la que se refleja impresa en los
+tickets, nunca la tasa corregida, toda vez que el artículo 74.3.a) del texto articulado
+establece que en las denuncias de los agentes deberá constar, entre otros, “la
+infracción presuntamente cometida”. En este sentido, debe tenerse en cuenta que
+el resultado que consta en los tickets es la prueba real de la infracción que se
+imputa, y ello no debe nunca generar confusión ni inseguridad jurídica a las partes
+intervinientes en el procedimiento.
+
+Josefa Valcárcel, 44
+28027 - MADRID
+
+2. Sanción y detracción de puntos
+La detracción de puntos que conlleva toda sanción firme por alcohol no ha
+sufrido variación desde que se puso en marcha el permiso por puntos el 1 de julio
+de 2006. El valor de referencia para aplicar una detracción de 4 o de 6 puntos ha
+sido siempre, y sin que haya sido objeto de controversia hasta la fecha, el resultado
+que arroja el etilómetro, pues el ordinal 1 del Anexo II de la Ley indica “valores mg/l
+aire espirado”, por lo que éste será el valor a tener en cuenta, conforme se expresa
+en el cuadro.
+Por su parte, el valor que ofrece el etilómetro debe ser también la referencia
+para la posible aplicación de la sanción de 500 o de 1000 euros de multa prevista
+en el artículo 67.2.a) del texto articulado, en la redacción dada por la Ley 6/2014,
+de 7 de abril. Por tanto, a efectos sancionadores éste debe ser el criterio para
+determinar si procede una u otra sanción.
+
+3. Otras consideraciones
+1. No es objeto de este escrito entrar a considerar los criterios que deban de
+mantener los agentes de la autoridad en los casos en los que, por aplicación de
+las instrucciones de las Fiscalías, proceda estimar que concurre un posible
+delito tipificado en el artículo 379.2 del Código Penal, por no ser competencia de
+esta Dirección General.
+2. Otras cuestiones relativas a infracciones de alcohol y de drogas, derivadas de la
+nueva redacción dada al artículo 12 por la Ley 6/2014, de 7 de abril, han sido
+objeto de tratamiento en la reciente Instrucción 14/V-106, S-133, C-114.
+3. Para criterios relativos a tratamiento de expedientes sancionadores en fase de
+tramitación relativos a infracciones al artículo 20 del Reglamento General de
+Circulación sobre los que existan dudas sobre el modo de actuar, la
+subdirección general adjunta de recursos dictará las instrucciones operativas
+oportunas.
+
+2
+
+4. Cuadro a aplicar sobre infracciones, sanciones y detracción de
+puntos
+
+Conductores con tasa de referencia de 0,15 mg/l aire espirado
+Valor arrojado por etilómetro
+(mg/l aire espirado)
+
+Sanción
+
+Puntos a detraer
+
+No procede denuncia
+
+-
+
+Entre 0,19 y 0,30
+
+500 euros (1)
+
+4
+
+Más de 0,30
+
+1000 euros
+
+6
+
+Hasta 0,18
+
+Conductores con tasa de referencia de 0,25 mg/l aire espirado
+Valor arrojado por etilómetro
+(mg/l aire espirado)
+
+Sanción
+
+Puntos a detraer
+
+No procede denuncia
+
+-
+
+Entre 0,29 y 0,50
+
+500 euros (1)
+
+4
+
+Más de 0,50
+
+1000 euros
+
+6
+
+Hasta 0,28
+
+(1) Los conductores que sean sancionados por cometer, a partir de la entrada en vigor de la ley, una
+infracción al artículo 20 del Reglamento General de Circulación, en caso de volver a ser denunciados por
+este mismo precepto en el plazo de 1 año, serán sancionados con multa de 1.000 euros
+
+Madrid, 9 de julio de 2014.
+LA DIRECTORA GENERAL
+
+María Seguí Gómez
+
+A TODAS LAS UNIDADES DEL ORGANISMO
+3
+
+----------------------------------------------------------------------
+
+### INSTRUCCIÓ 14/S-135 — Protocol actuació delictes excés velocitat i curses il·legals
+
+Asunto:
+
+Protocolo de actuación para
+tratamiento de posibles delitos de
+exceso de velocidad captados por
+cinemómetros y de carreras ilegales
+
+INSTRUCCIÓN 14/S-135
+
+1.- Introducción.
+El artículo 379.1 del Código Penal señala que “El que condujere un
+vehículo de motor o un ciclomotor a velocidad superior en sesenta kilómetros
+por hora en vía urbana o en ochenta kilómetros por hora en vía interurbana a
+la permitida reglamentariamente, será castigado con la pena de prisión de tres
+a seis meses o con la multa de seis a doce meses o con la de trabajos en
+beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier
+caso, con la de privación del derecho a conducir vehículos a motor y
+ciclomotores por tiempo superior a uno y hasta cuatro años”.
+Por su parte, la Ley sobre Tráfico, Circulación de Vehículos a Motor y
+Seguridad Vial (en adelante LSV) tipifica como infracción grave en el artículo
+65.4, apartados a) y b) o muy grave en el artículo 65.5, en sus apartados a) y
+b) el hecho de “No respetar los límites de velocidad reglamentariamente
+establecidos, de acuerdo con lo recogido en el Anexo IV”, así como ”Circular en
+un tramo a una velocidad media superior a los límites establecidos
+reglamentariamente, de acuerdo con lo recogido en el Anexo IV”.
+Dicho Anexo se titula Cuadro de sanciones y puntos por exceso de
+velocidad (Infracción sobre exceso de velocidad captado por cinemómetro). El
+Cuadro no se centra en la determinación de la infracción y su encaje en la
+norma, sino en la aplicación de una sanción y una detracción de puntos a un
+exceso de velocidad captado por cinemómetro.
+La experiencia acumulada en los últimos años nos lleva a la necesidad de
+introducir una serie de cambios en el protocolo de actuación en la persecución
+de los ilícitos penales, en particular, por exceso de velocidad punible con
+arreglo al Código Penal.
+
+Josefa Valcárcel, 44
+28027 - MADRID
+
+2.- Medios de captación de exceso de velocidad.
+En la actualidad se utilizan diferentes medios o dispositivos que permiten
+captar los excesos de velocidad y, en su caso, denunciar administrativamente
+o iniciar las correspondientes diligencias penales ante la comisión de un
+presunto delito. Se pueden distinguir entre distintos tipos de instalaciones de
+cinemómetros: estáticas, móviles, en aeronaves o de tramo.
+La detección de la infracción, ya sea administrativa o penal, puede
+producirse con o sin parada del vehículo con el que se ha cometido la
+infracción e identificación de su conductor. En el caso de que no se produzca la
+parada e identificación del conductor, las fotografías se envían al Centro de
+Tratamiento de Denuncias Automatizadas.
+
+3.- Procedimiento de actuación ante presuntos delitos por exceso de
+velocidad.
+3.1.- Consideraciones previas
+3.1.1.- Descarte de fotografías:
+Todas las fotografías que se reciban en el Centro de Tratamiento de
+Denuncias Automatizadas y que recojan una velocidad penalmente típica
+deben ser tratadas, sin descartar ninguna, bastando con que cumplan con los
+requisitos señalados en el artículo 379.1 del Código Penal, es decir, el exceso
+en más de 60 kilómetros por hora en vía urbana u 80 kilómetros por hora en
+vía interurbana.
+En tales casos, la Dirección General de Tráfico (a través de la
+Subdirección Adjunta de Recursos) remitirá al GIAT Central de la ATGC todos
+los fotogramas en que se capte al vehículo circulando a una velocidad
+penalmente típica, con independencia de los criterios que pudieran en vía
+administrativa determinar el posible descarte de la fotografía, siendo
+competencia del GIAT como Policía Judicial de Tráfico investigar el delito y
+determinar si un fotograma es válido o no para realizar el atestado.
+
+2
+
+3.1.2.- Fotografías captadas por cinemómetros de aeronaves.
+En el caso de que la detección del vehículo que circula a una velocidad
+típica del artículo 379.1 del Código Penal se produzca por un cinemómetro de
+aeronave sin posterior parada del vehículo e identificación de su conductor, los
+operarios del cinemómetro velarán, en la medida de lo posible y sin riesgo
+propio o de terceros, por la toma de fotogramas o fotografías no sólo de la
+matrícula del vehículo sino también identificativas del conductor del mismo.
+3.2.- Con parada.
+En el supuesto de que se produzca parada del vehículo con el que se ha
+cometido la infracción, la Guardia Civil identificará al conductor, tomará todos
+los datos necesarios y realizará las siguientes actuaciones:
+a) Cumplimentará Boletín de denuncia o generará boletín PRIDE con la
+anotación: SE INSTRUYEN DILIGENCIAS PENALES.
+b) Remitirá dicho Boletín a la Jefatura Provincial de Tráfico (JPT)
+correspondiente. Ésta dará de alta el expediente que quedará
+anotado en la carpeta de expedientes de la herramienta de gestión
+-PSAN: “ENVIADOS AL JUZGADO”. La anotación de este
+expediente permitirá llevar un seguimiento de las Diligencias
+iniciadas, del resultado de las mismas y, llegado el caso, iniciar o
+continuar con la tramitación administrativa en el caso de que el
+proceso penal termine sin declaración de responsabilidad.
+
+La fuerza actuante entregará el atestado con el infractor identificado al
+Juzgado correspondiente, trasladando a su vez copia del mismo al Ministerio
+Fiscal.
+Finalizado el proceso penal y una vez que la JPT tenga conocimiento de la
+resolución judicial firme que le ponga fin, de conformidad con el artículo 72.2
+de la LSV, aquélla iniciará o continuará con la tramitación del correspondiente
+expediente sancionador.
+Concluido el proceso penal con sentencia condenatoria de los inculpados
+se
+archivará
+el
+procedimiento
+administrativo
+sin
+declaración
+de
+responsabilidad.
+
+3
+
+Si la sentencia fuera absolutoria o el procedimiento penal finalizara con
+otra resolución que le ponga fin sin declaración de responsabilidad, y siempre
+que la misma no estuviera fundada en la inexistencia del hecho, la JPT iniciará
+o continuará el procedimiento administrativo sancionador contra quien no
+hubiese sido condenado en vía penal.
+
+3.3.- Sin parada.
+En el supuesto de que no se produzca parada e identificación del
+conductor, por alguna de las causas contempladas en el artículo 76.2 de la
+LSV, se remitirán todas las fotografías al CTDA.
+A la vista de las fotografías que presuntamente constituyen un ilícito
+penal, se realizarán las siguientes actuaciones:
+a) El CTDA dará de alta el expediente y se realizará la anotación
+“enviado al GIAT” lo que permitirá su consulta en la carpeta de
+expedientes de PSAN: “ENVIADOS AL GIAT”. La inclusión de este
+expediente en la herramienta de gestión PSAN permitirá llevar un
+seguimiento de las diligencias que se inicien, del resultado de las
+mismas y, llegado el caso, iniciar o continuar con la tramitación
+administrativa en el caso de que el proceso penal termine sin
+declaración de responsabilidad.
+En el supuesto de que sea imposible identificar la matrícula del
+vehículo, bien porque ésta sea ilegible, no sea posible visualizar
+nada en la imagen o tratándose de varios vehículos no se pueda
+determinar cuál de ellos circulaba a velocidad penalmente punible,
+no se dará de alta el expediente, si bien se archivará por la
+Subdirección Adjunta de Recursos la documentación que se remita
+al GIAT a la espera del resultado de las diligencias.
+b) La Subdirección citada trasladará al GIAT Central las fotografías
+en las que se capta el exceso de velocidad y toda otra información
+disponible que pueda ser relevante para el caso. La información
+pertinente relativa a los cinemómetros se facilitará por la
+Subdirección General de Gestión de la Movilidad. En el supuesto de
+que fuera necesaria documentación adicional sobre los
+cinemómetros se solicitará a la dirección de correo electrónico
+sgacir@dgt.es
+
+4
+
+El GIAT Central distribuirá el caso a quien corresponda por razón del
+lugar de los hechos para que inicie las investigaciones correspondientes con
+vistas al esclarecimiento de los hechos y la identificación del conductor,
+practicando las diligencias judiciales pertinentes.
+Concluida la investigación, la Fuerza actuante dará cuenta inmediata al
+Ministerio Fiscal en la respectiva provincia remitiéndole el atestado instruido
+con el resultado de la investigación y comunicando a la Subdirección Adjunta
+de Recursos dicha remisión de cara a su anotación en la carpeta de
+expedientes de PSAN: “ENVIADOS A FISCALÍA”.
+Una vez que el GIAT o la Jefatura Provincial de Tráfico tengan
+conocimiento, respectivamente, del Decreto de archivo de las diligencias de
+investigación del Ministerio Fiscal o de la resolución judicial firme que ponga fin
+al procedimiento penal, de conformidad con el artículo 72.2 de la LSV,
+trasladarán esta información a la Subdirección Adjunta de Recursos quién
+instará la tramitación del correspondiente expediente sancionador.
+Concluido el proceso penal con sentencia condenatoria de los inculpados
+se
+archivará
+el
+procedimiento
+administrativo
+sin
+declaración
+de
+responsabilidad.
+Si la sentencia fuera absolutoria o el procedimiento penal finalizara con
+otra resolución que le ponga fin sin declaración de responsabilidad, y siempre
+que la misma no estuviera fundada en la inexistencia del hecho, el CTDA
+iniciará o continuará el procedimiento administrativo sancionador contra quien
+no hubiese sido condenado en vía penal.
+En el supuesto de que no hubiera sido posible averiguar la identidad del
+conductor en el procedimiento penal, se remitirá requerimiento de
+identificación del conductor al titular del vehículo y de no obtenerse respuesta
+o ser ésta insuficiente, se incoará procedimiento sancionador al titular del
+vehículo (artículo 65.5.j) de la Ley sobre Tráfico, Circulación de Vehículos a
+Motor y Seguridad Vial en relación con el artículo 9 bis) por no identificar al
+conductor, por el importe que corresponda y se terminará por sobreseimiento
+el expediente abierto inicialmente y suspendido por remisión al Ministerio
+Fiscal.
+Toda contestación del titular inculpatoria de un posible conductor será
+remitida por el CTDA de nuevo a la Fiscalía o al Juzgado competente en caso
+de que ya se hubiera incoado previamente un procedimiento penal por los
+mismos hechos.
+
+5
+
+En otro caso, se continuará la tramitación por infracción al artículo 9 bis
+de la Ley sobre tráfico, Circulación de Vehículos a Motor y Seguridad Vial.
+4.- Indicios de carreras ilegales
+Al margen de la persecución del delito del artículo 379.1 del Código
+Penal, cuando a través de los cinemómetros se detecten indicios del desarrollo
+de una carrera ilegal entre vehículos con riesgo concreto para terceros usuarios
+que pueda determinar la posible comisión de un delito de conducción temeraria
+o con manifiesto desprecio por la vida ajena de los artículos 380 ó 381 del
+Código Penal, aun cuando no se alcancen las velocidades típicas del artículo
+379.1, y no se produzca la parada e identificación de los conductores
+implicados, se seguirá el mismo procedimiento previsto en el apartado 3.3 del
+Protocolo (“SIN PARADA”) para garantizar una investigación completa de los
+hechos por parte del GIAT.
+5.- Seguimiento de actuaciones
+Con el fin de valorar la eficacia de las actuaciones y, en particular, la
+mayor efectividad del nuevo procedimiento que se recoge en este Protocolo, se
+llevará desde la Dirección General de Tráfico un seguimiento de los
+expedientes que se han suspendido en la vía administrativa por remisión a la
+vía penal y se recogerá información sobre los periodos que trascurren desde la
+suspensión hasta la terminación del procedimiento, así como sobre las causas
+de finalización de dichos procedimientos.
+Madrid, 8 de septiembre de 2014
+LA DIRECTORA GENERAL
+
+María Seguí Gómez
+
+A TODAS LAS UNIDADES DEL ORGANISMO
+6
+
+----------------------------------------------------------------------
+
+### INSTRUCCIÓ 16/V-116 — Denúncies per pneumàtics
+
+Sub. Gral. Políticas Viales Unidad de
+Ordenación Normativa
+
+Asunto:
+Denuncias
+por
+neumáticos Neverending Pirelli
+INSTRUCCIÓN 16/V-116
+
+El artículo 12, apartado 5.1 del Reglamento General de Vehículos, aprobado por
+Real Decreto 2822/1998, de 23 de diciembre, establece que los vehículos deben tener sus
+ruedas provistas de neumáticos o de elementos de elasticidad similar que presenten dibujo
+en las ranuras principales de la banda de rodamiento y su estado reúna las condiciones
+mínimas de utilización.
+Los neumáticos modelo Neverending de la firma Pirelli, del que se acompaña una
+imagen, poseen unas ranuras principales en los flancos de la banda de rodaje, pero no en la
+zona central.
+Se están formulando denuncias a los titulares de los vehículos que circulan con estos
+neumáticos por infracción a lo dispuesto en el citado artículo 12, apartado 5.1 del
+Reglamento General de Vehículos: “circular con el vehículo reseñado cuyos neumáticos no
+presentan dibujo en las ranuras principales de la banda de rodamiento”.
+Esta Dirección General consultó a la Subdirección General de Calidad y Seguridad
+Industrial del Ministerio de Industria, Energía y Turismo, la cual ha informado que dichos
+neumáticos se han homologado por Holanda e Italia.
+Por lo tanto, no procede la denuncia ni la sanción por el hecho de utilizar los
+neumáticos descritos, siempre que se encuentren en buen estado de conservación.
+Lo que se comunica para general conocimiento.
+Madrid, 29 de marzo de 2016
+
+LA DIRECTORA GENERAL DE TRÁFICO
+
+María Seguí Gómez
+A TODAS LAS UNIDADES DEL ORGANISMO
+
+Correo-electrónico: buzon.nr@dgt.es
+
+C/ JOSEFA VALCÁRCEL, 44
+28027 MADRID
+Tel.: 917143209
+
+Anexo
+Imagen de los neumáticos Neverending Pirelli
+
+----------------------------------------------------------------------
+
+### INSTRUCCIÓ 16/S-141 — Infraccions vehicles prioritaris
+
+- DGT
+
+MINISTERIO
+DEL INTERIOR
+
+. . .Dirección General
+de Tráfico
+
+ASUNTO:
+Infracciones
+a
+lo
+dispuesto en la L TSV cometidas
+por conductores de vehículos
+o
+con
+matrícula
+prioritarios
+reservada
+Instrucción 16/5- 141
+1. INTRODUCCiÓN
+
+El artículo 74 del Texto Refundido de la Ley sobre tráfico, circulación de vehículos a .
+motor y seguridad vial, aprobado por Real Decreto Legislativo 6/2015 de 30 de octubre, (en
+adelante LTSV), relativo a las Disposiciones Generales aplicables a las Infracciones
+
+establece en su apartado 1 que las acciones u omisiones contrarias a esta ley tendrán el
+carácter de infracciones administrativas y serán sancionadas en los términos previstos en la
+misma.
+
+A lo largo de los últimos años, se ha potenciado la utilización de instrumentos y
+medios automatizados para la formulación de denuncias por infracciones a la normativa de
+tráfico que complementan las labores de vigilancia del tráfico desempeñadas por los
+distintos Cuerpos policiales con tal atribución.
+
+Por su parte, el artículo 27 de la LTSV señala que los vehículos de servicio de
+urgencia, cuando se hallen en servicio de tal carácter, así como los equipos de
+mantenimiento de las instalaciones y de la infraestructura de la vía y los vehículos que
+acudan a realizar un servicio de auxilio en carretera, tendrán preferencia de paso sobre los
+demás vehículos y otros usuarios de la vía y que podrán circular por encima de los límites
+de velocidad establecidos, estando exentos de cumplir otras normas o señales, en los
+términos que reglamentariamente se determine.
+
+C/ JOSEFA VAlCARCEl. 44
+
+28027 MADRID
+
+...-.Junto a los vehículos que denominamos prioritarios y a los que expresamente el
+artículo 68 del Reglamento General de Circulación, aprobado por Real Decreto 1428/2003,
+de 30 de noviembre (en adelante RGC) atribuye tal carácter, como son los vehículos de los
+servicios de policía, extinción de incendios, protección civil y salvamento, y de asistencia
+sanitaria, pública o privada, que circulen en servicio de urgencia y cuyos conductores
+adviertan de su presencia mediante la utilización de la señal luminosa, a que se refiere el
+artículo 173, y del aparato emisor de señales acústicas especiales, al que se refieren las
+normas reguladoras de vehículos; podemos también incluir a otros que, sin tener tal
+carácter, realicen
+
+determinadas funciones de seguridad
+
+pública o vigilancia que,
+
+debidamente valoradas y justificadas, puedan amparar una circulación por encima de los
+límites de velocidad. Nos referimos a los vehículos con matrícula reservada.
+
+Resulta preciso clarificar al máximo los casos de posible infracción cometida con
+vehículos prioritarios, o con cualquier otro que pueda estar circulando al amparo de un
+servicio de vigilancia o seguridad pública, que tendría como consecuencia la tramitación del
+correspondiente procedimiento sancionador, tanto en los casos de hechos que hubieran sido
+comprobados "in situ" por los agentes encargados de la vigilancia del tráfico como en los
+aquellos otros de captación de la infracción por medios automatizados, que nos llevaría, en
+primer lugar, al inicio de actuaciones encaminadas a la identificación del conductor de
+dichos vehículos.
+
+2. REGLAS GENERALES
+
+La normativa sancionadora de tráfico, a diferencia de lo que sucede en la legislación
+penal (Código Penal,
+
+arto
+
+20),
+
+no contiene un listado de causas eximentes de
+
+responsabilidad, salvo alguna exclusión expresa, derivada de la propia naturaleza del
+ejercicio de las funciones que tienen atribuida, por razón del cargo o puesto que ocupa el
+autor de la infracción (entre otras, la tarea de controlar y vigilar el tráfico viario en las vías de
+su competencia).
+
+2
+
+...-...
+Las disposiciones contempladas en los artículos 67 y siguientes del RGC establecen
+claramente las posibles exenciones del cumplimiento de normas sobre exceso de velocidad
+y otras normas o señales, si bien sólo en los casos y condiciones que se determinan en
+dicha Sección:
+
+se hará un uso ponderado de su régimen especial
+únicamente se admitirán cuando circulen en prestación de un servicio urgente
+cuidarán de no vulnerar las prioridades de paso de otros vehículos o los
+semáforos, sin antes adoptar extremadas precauciones
+podrán dejar de cumplir, bajo su exclusiva responsabilidad, las normas de los
+Títulos 11, 111 Y IV del RGC, salvo las órdenes y señales de los agentes que serán
+siempre de obligado cumplimiento
+podrán, igualmente, realizar una serie de concretas maniobras y actuaciones en
+la vía, siempre que las mismas estén sujetas a los específicos requisitos y
+condiciones determinados en tales supuestos
+
+3. PROTOCOLO DE ACTUACiÓN
+A partir de la publicación de la
+
+presente Instrucción, se adoptarán las medidas
+
+necesarias al objeto de que, constatada la comisión de una infracción a lo dispuesto en la
+LTSV, y no habiendo quedado acreditado ni el servicio prioritario al que el vehículo pudiera
+estar adscrito ni la identidad del conductor responsable de dicha infracción (habitualmente
+en las infracciones detectadas por medios automatizados), las distintas Autoridades con
+
+competencia sancionadora dependientes de la Jefatura Central de Tráfico deberán remitir al
+Gabinete de Coordinación y Estudios de la Secretaría de Estado de Seguridad del Ministerio
+del Interior (para el caso de infracciones cometidas con vehículos con matrícula reservada o
+adscritos a dicho Departamento), u órgano correspondiente de la Institución u Organismo a
+
+cuyo nombre figure el vehículo objeto de denuncia (en el caso de otros vehículos
+prioritarios), la notificación que contendrá los datos esenciales relativos a la infracción,
+
+según se especifican en el artículo 5 del Reglamento del procedimiento sancionador en
+
+3
+
+-...
+
+..1
+
+materia de tráfico, circulación de vehículos a motor y seguridad vial, aprobado por Real
+Decreto 320/1994, de 25 de febrero, y que tendrá como objeto la identificación del
+conductor.
+
+Los órganos instructores de los expedientes sancionadores quedarán a la espera de
+la contestación en la que se identifique al conductor del vehículo o se remita la justificación
+de la circulación del vehículo en las circunstancias reseñadas en la comunicación del inicio
+del expediente.
+
+A tales efectos, se tendrá en cuenta en todo caso, lo siguiente:
+
+a) sólo serán atendidas causas de justificación o exculpación que vengan avaladas
+por el Mando superior, es decir, deberá venir firmada por Director, Gerente
+o similar de la Unidad de que se trate.
+
+b) sólo se entenderán comprendidas entre las causas de justificación o exculpación
+aquéllas que se deban a la prestación de un servicio urgente, preferente o
+reservado en el marco de una operación o diligencia ordenada por la
+respectiva Autoridad (Policial, Judicial, Sanitaria), siendo deseable el mayor
+detalle posible. Se citan como ejemplos válidos los siguientes: vehículo utilizado
+en el marco de una operación de represión de tráfico de drogas, o persecución de
+vehículo sospechoso, de vigilancia, en el marco de diligencias previas que se
+siguen ante el Juzgado X. No se admitirán, por sí solas, las siguientes
+justificaciones: premura de tiempo, vehículo oficial, descuido o vehículo al
+servicio de un alto cargo.
+
+c) fuera de los supuestos contemplados en la letra b), y siempre contando con la
+correspondiente Certificación o Informe mencionado en la letra a), no se
+considerará ninguna otra motivación o explicación exculpatoria, salvo que por lo
+específico o justificado de su circunstancia concreta, ésta deba ser tratada
+excepcionalmente por parte de la Autoridad competente.
+
+4
+
+...-...
+En el supuesto de los vehículos adscritos a la Secretaría de Estado de Seguridad, y
+para el caso de que no se reciba respuesta en el plazo de 70 días desde el envío de la
+primera notificación , se reiterará en una segunda notificación. Si en el nuevo plazo de 70
+días no se obtienen noticias, el expediente deberá quedar en PSAN en situación de JP
+PTEID
+
+(Pendiente
+
+de
+
+Identificación)
+
+en
+
+la
+
+carpeta
+
+"OTROS
+
+EXPEDIENTES
+
+EN
+
+TRAMITACION", lo que permitirá a la Subdirección Adjunta de Procedimiento Sancionador
+llevar a cabo un seguimiento y adoptar las medidas oportunas, junto con la Secretaría de
+Estado de Seguridad del Ministerio del Interior.
+
+Visto lo anteriormente expuesto, y al objeto de proceder a la necesaria actualización
+de los criterios de actuación en lo concerniente a esta materia, se derogan los Escritos
+Circulares nO 178/94 y 28/95, Y cualquier otra nota o contestación específicamente referida a
+la misma que pueda oponerse a su contenido.
+
+Madrid, 8 de abril de 2016
+La Directora General
+
+A todas las Unidades del Organismo
+
+5
+
+----------------------------------------------------------------------
+
+### INSTRUCCIÓ VMP i altres vehicles lleugers — Aclariments tècnics i criteris denúncies
+
+UN/SGMT
+
+Asunto: Aclaraciones técnicas y criterios para
+la formulación de denuncias de vehículos
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+ligeros propulsados por motores eléctricos.
+
+INSTRUCCIÓN 2019/S-149 TV-108
+
+1. Introducción y objeto
+1.1. Introducción: antecedentes
+La rápida proliferación en las zonas urbanas de los denominados“ vehículos de movilidad
+personal” (VMP) y de las bicicletas de pedaleo asistido, así como su riesgo de
+comercialización sin disponer de toda la información necesaria, exige aclarar definiciones de
+este tipo de vehículos y de las normas de circulación aplicables, con objeto de que los
+usuarios y los agentes de la autoridad encargados de la vigilancia y regulación del tráfico
+conozcan los requisitos, derechos y obligaciones, así como de los comportamientos
+prohibidos cuando se circula con ellos.
+La modificación del Reglamento General de Vehículos, aprobado por Real Decreto
+2822/1998, de 23 de noviembre, actualmente en fase de tramitación, prevé la definición
+
+1
+
+formal de los VMP y su categorización a través de la publicación de un Manual de
+características que detallará los requisitos técnicos de su certificación y puesta en
+circulación. Por ello, uno de los objetivos de esta instrucción es facilitar, de forma transitoria
+y a petición de las autoridades municipales, la diferenciación clara respecto de los
+ciclomotores y motocicletas, y de este modo evitar disfunciones derivadas del
+desconocimiento de las características técnicas del vehículo utilizado por parte de los
+usuarios, los fabricantes, los importadores y los agentes de la autoridad. En este sentido, la
+clasificación que adelanta este documento está armonizada con la normativa que está
+elaborando la Unión Europea y la nacional en fase de tramitación, con la finalidad de
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+asegurar la competitividad de los fabricantes e importadores de estos vehículos.
+En este contexto, el hecho de que todavía no se haya actualizado una parte del régimen
+jurídico aplicable a los vehículos objeto de la presente Instrucción no obsta para fijar
+determinados criterios sobre la adecuación a la normativa de tráfico vigente, a la vista de la
+incidencia negativa que se está produciendo en la seguridad vial, especialmente cuando
+afecta a otros usuarios vulnerables de la vía, y, en particular, a los peatones.
+Como antecedentes de regulación interpretativa sobre esta materia, es necesario señalar
+que en el año 2016, la Dirección General de Tráfico publicó la Instrucción 16/V-124, que,
+entre otras cuestiones, apuntó a la consideración de los VMP como “vehículos”, además de
+fijar una primera clasificación de los mismos como referencia para las Entidades Locales.
+La necesidad de establecer unas normas básicas sobre los VMP o vehículos similares, y
+especialmente para la protección de los peatones se constata también a través de dos
+recientes documentos:
+
+
+En primer lugar, la Fiscalía de Sala Coordinadora de Seguridad Vial, con fecha de
+13 de diciembre de 2018, ha dado instrucciones a las Policías Locales sobre
+tratamiento penal a la accidentalidad en vías urbanas, incluyéndose apartados
+específicos relativos a los usuarios de VMP.
+
+
+
+En Segundo lugar, la Federación Española de Municipios y Provincias, mediante
+
+acuerdo de su Junta de Gobierno de 29 de octubre de 2018, ha publicado las
+“Recomendaciones de la FEMP sobre la acera y la prioridad peatonal”, en las que,
+entre otras consideraciones, refuerza la acera como espacio del peatón1.
+Finalmente, esta Dirección General publicó en mayo de 2019 la Instrucción 19-V/134
+“Matriculación de vehículos L1e-A” con el fin de aclarar las obligaciones administrativas en
+materia de tráfico, circulación de vehículos y seguridad vial de los ciclos de pedaleo asistido
+que por sus características técnicas se encuadran en la categoría de homologación europea
+L1e-A. En la presente instrucción se describen en detalle estas características técnicas y se
+corrigen algunos errores sobre categorización de estos vehículos, sustituyendo así la
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+instrucción 19-V/134.
+
+1.2. Objeto.
+El objeto de la presente Instrucción, dentro del ámbito de aplicación del Texto refundido de
+la Ley sobre Tráfico, Circulación de Vehículos a motor y Seguridad vial, aprobado por Real
+Decreto Legislativo 6/2015, de 30 de octubre (en adelante LTSV) y su normativa de
+desarrollo, y respecto de los VMP o vehículos de prestaciones superiores, es:
+1. Clarificar el marco jurídico aplicable a los ciclos de pedaleo asistido que por sus
+prestaciones se incluyen en el ámbito de aplicación del derecho comunitario sobre
+homologación de vehículos de 2 o 3 ruedas.
+2. Adelantar la definición de VMP prevista en la próxima modificación el Reglamento
+General de Vehículos y resto de vehículos ligeros incluidos en el ámbito del
+Reglamento (UE) n ° 168/2013 del Parlamento Europeo y del Consejo, de 15 de
+enero de 2013, relativo a la homologación de los vehículos de dos o tres ruedas y
+los cuatriciclos, y a la vigilancia del mercado de dichos vehículos.
+
+1
+
+http://femp.femp.es/files/1788-6983-Fichero/AcuerdosJuntaGobiernoFEMP_2018_10_29.pdf .
+
+3. Aclarar las distintas clases de infracciones que pueden darse al detectarse la
+utilización de este tipo de vehículos sin la debida autorización, dando pautas de
+actuación a los agentes de la Autoridad en caso de que tengan que formular
+denuncias relacionadas con estas materias.
+4. Señalar otras conductas sobre normas de circulación que puedan ser constitutivas
+de infracción a la citada normativa, proponiendo una referencia de actuación a las
+Entidades Locales que no hayan regulado en sus Ordenanzas Municipales los
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+supuestos que se describen.
+
+2. Consideración del usuario de VMP o de vehículos ligeros
+propulsados por motores eléctricos.
+El concepto nº 1 del Anexo I del Texto refundido de la LTSV, define al conductor como la
+“persona que, con las excepciones del párrafo segundo del punto 4 maneja el mecanismo
+de dirección o va al mando de un vehículo, o a cuyo cargo está un animal o animales”.
+Además, el concepto nº 2 define a vehículo como “aparato apto para circular por las vías
+o terrenos a que se refiere el artículo 2.”
+Teniendo en cuenta que en la Instrucción 16/V-124 de la Dirección General de Tráfico se
+estimó que los VMP deben de tener consideración de vehículos, por aplicación del citado
+concepto nº 1, quien lo maneja debe de tener la consideración de conductor a los efectos
+de la normativa de tráfico, y especialmente en lo que se refiere a comportamientos
+prohibidos por esta normativa. Con mayor motivo, esta consideración de conductor se
+aplicará también en todos los supuestos en los que el vehículo sobrepase las características
+técnicas admitidas para un VMP.
+
+3. Normativa técnica aplicable a los ciclos de motor incluidos
+dentro del ámbito del Reglamento (UE) nº 168/2013: subcategoría
+L1e-A.
+Dentro del Reglamento (UE) nº 168/2013, estos vehículos conforman una subcategoría
+dentro de la categoría L1e “vehículo de motor de dos ruedas ligero”. En concreto, la
+subcategoría L1e-A se denomina “ciclo de motor”, por lo que se trata de una subcategoría
+distinta al L1e-B -“ciclomotor de dos ruedas” y, a todos los efectos, no tendrá la
+consideración técnica de ciclomotor, aunque se les exijan las autorizaciones administrativas
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+para conducir y circular, así como el seguro.
+Los ciclos de motor de la subcategoría L1e-A, según recoge el Reglamento (UE) nº
+168/2013 en su artículo 4.2 y anexo I son: “ciclos diseñados para funcionar a pedal que
+cuentan con una propulsión auxiliar cuyo objetivo principal es ayudar al pedaleo, la potencia
+de la propulsión auxiliar se interrumpe a una velocidad del vehículo ≤ 25 km/h y su potencia
+nominal o neta continua máxima es ≤ 1 000 W. Los ciclos de motor de tres o cuatro ruedas
+que cumplan los criterios específicos de subclasificación adicionales descritos previamente
+se clasifican como equivalentes técnicamente a los vehículos L1e-A de dos ruedas.”
+También conviene señalar que el Reglamento UE 168/2013 excluye de su ámbito de
+aplicación, en el artículo 2.2.h), las bicicletas de pedales con pedaleo asistido, equipadas
+con un motor eléctrico auxiliar, de potencia nominal continua máxima inferior o igual a
+250 W, cuya potencia disminuya progresivamente y que finalmente se interrumpa antes de
+que la velocidad del vehículo alcance los 25 km/h o si el ciclista deja de pedalear. Estos
+ciclos quedan exentos de autorización administrativa para circular, seguro obligatorio y
+autorización administrativa para conducir.
+
+4. Definición de VMP prevista en la próxima modificación el
+Reglamento General de Vehículos.
+El proyecto de modificación del Reglamento General de Vehículos definirá al Vehículo de
+Movilidad Personal como el vehículo de una o más ruedas dotado de una única plaza y
+propulsado exclusivamente por motores eléctricos que pueden proporcionar al vehículo una
+velocidad máxima por diseño comprendida entre 6 y 25 km/h.
+Sólo pueden estar equipados con un asiento o sillín si están dotados de sistema de auto-
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+equilibrado.
+Quedan excluidos de esta consideración:
+
+
+Vehículos sin sistema de auto-equilibrio y con sillín.
+
+
+
+Vehículos concebidos para competición.
+
+
+
+Vehículos para personas con movilidad reducida.
+
+
+
+Vehículos con una tensión de trabajo superior a 100VCC o 240VAC.
+
+
+
+Vehículos incluidos en el ámbito del Reglamento (UE) N2 168/2013.
+
+5. Cuestiones generales para la formulación de denuncias
+Con carácter general, los agentes de la autoridad encargados de la vigilancia y control del
+tráfico tendrán en cuenta las siguientes reglas generales en la formulación de las denuncias:
+
+
+Datos a recoger en la denuncia. El agente de la autoridad deberá indicar en el
+boletín de denuncia todos los datos identificativos posibles sobre el vehículo, tales
+como fabricante, marca, modelo, potencia, número de chasis si lo tuviera, año de
+fabricación si consta, etc. Incluso, si fuera posible, adjuntar fotografía del mismo.
+Todo ello permitirá al instructor determinar, en casos dudosos, qué tipo de vehículo
+es objeto de denuncia.
+
+
+
+Detracción de puntos. En los casos en los que esté claro que el tipo de vehículo es
+
+un VMP no procederá aplicar detracción de puntos en los expedientes iniciados por
+posible comisión de alguna de las infracciones contempladas en el Anexo II del Texto
+refundido de la LTSV. En caso de vehículos cuyas características técnicas no
+queden recogidas en la definición relativa a los VMP si procederá incluir la detracción
+de puntos entre los datos consignados en los oportunos boletines de denuncia, pues
+se tratará de vehículos que requerirán autorización administrativa para conducir o
+que deberían ser susceptibles de tenerla.
+
+
+Velocidad. La velocidad a la que circula el vehículo puede ser un elemento
+importante para poder determinar su clasificación desde el punto de vista de las
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+autorizaciones administrativas que requiere, por lo que, en la medida de lo posible,
+los agentes de la autoridad deben hacer constar la velocidad a la que el aparato
+circula. Para ello, el agente deberá describir en el boletín de denuncia que se ha
+constatado durante un tiempo suficiente la velocidad mediante el velocímetro del
+vehículo policial.
+Es necesario aclarar que el objeto de tener constancia de la velocidad a la que se
+circula es tener una referencia sobre el tipo de vehículo en cuestión.
+
+6. Denuncias relativas a autorizaciones administrativas
+De forma simplificada, y de cara al objeto de esta Instrucción, que se centra en la actuación
+en caso de conductas contrarias a la normativa de tráfico, las principales dudas que están
+surgiendo en estos momentos a los agentes de la autoridad y a los usuarios, se refieren a la
+consideración administrativa de los distintos tipos de vehículos y a los requisitos para su
+conducción.
+No es objeto de esta Instrucción el tratamiento de conductas infractoras cometidas
+circulando con bicicletas de pedaleo asistido, al tener éstas la consideración de bicicleta a
+todos los efectos.
+
+Para la formulación de las denuncias sobre autorizaciones administrativas se tendrán en
+cuenta los siguientes criterios:
+6.1. Con carácter general:
+1. Los artilugios que no sobrepasan la velocidad de 6 km/h. tienen la consideración
+de juguetes.
+2. Los VMP están fuera del ámbito de aplicación del Reglamento (UE) nº 168/2013
+del Parlamento Europeo y del Consejo, de 15 de enero de 2013, relativo a la
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+homologación de los vehículos de dos o tres ruedas y los cuadriciclos, y a la
+vigilancia del mercado de dichos vehículos2. En consecuencia, no se les exige
+autorización administrativa para circular ni para conducir, ni seguro obligatorio.
+3. Los vehículos que son objeto de regulación en el Reglamento (UE) nº 168/2013,
+requieren de autorización administrativa para circular, autorización administrativa
+para conducir –diferente según el tipo de vehículos de que se trate- y seguro
+obligatorio.
+4. Los aparatos que no tienen consideración de VMP y que a su vez están fuera del
+ámbito de aplicación de Reglamento (UE) nº 168/2013 no pueden circular por las
+vías públicas.
+
+6.2. Vehículos comercializados como VMP o que no encajan en esta tipología de
+vehículos.
+Si el vehículo desarrolla una velocidad superior a 25 km/h. no tiene la consideración de
+VMP. En estos supuestos existen las siguientes opciones:
+
+2
+
+Reglamento
+(UE)
+nº
+168/2013:
+content/ES/TXT/PDF/?uri=CELEX:32013R0168&from=ES
+
+https://eur-lex.europa.eu/legal-
+
+a) El vehículo entra en el ámbito de aplicación del citado Reglamento (UE) nº 168/20133. Los
+supuestos que más dudas y conflictos están generando en estos momentos son los
+llamados patinetes con asiento o sillín, y por ello habrán de tenerse en cuenta los
+siguientes aspectos:
+-
+
+Si el sillín del patinete se sitúa a una altura superior a 540 mm el vehículo
+entra dentro del ámbito de aplicación del Reglamento (UE) nº 168/2013, y
+requiere
+
+de
+
+autorización
+
+administrativa
+
+para
+
+circular
+
+y
+
+autorización
+
+4
+
+administrativa para conducir .
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+-
+
+En caso de que su potencia nominal sea igual o inferior a 4.000 w y desarrolle
+una velocidad máxima igual o inferior a 45 km/h se tratará un vehículo de la
+sub-categoría L1e-B –“ciclomotor de dos ruedas” conforme el Anexo I del
+Reglamento (UE) nº 168/2013-, y el conductor precisará de permiso de
+conducción de la clase AM.
+
+-
+
+Si el vehículo supera alguna de las prestaciones de potencia o de velocidad
+anteriormente indicadas se tratará de un vehículo de la categoría L3e –
+“motocicleta de dos ruedas” conforme el Anexo I del Reglamento (UE) nº
+168/2013-. Dependiendo de su potencia y relación peso-potencia será
+necesario disponer de permiso de conducción de las clases siguientes:
+o
+
+Motocicletas de prestaciones bajas (L3e-A1) con potencia nominal o
+neta continua máxima ≤ 11 kW y una relación potencia/peso ≤ 0,1
+
+3
+
+De acuerdo con el artículo 2.2 del Reglamento (UE) nº 168/2013, entran dentro del ámbito de
+aplicación de esta norma, entre otros, los vehículos equipados con cualquier plaza de asiento para el
+conductor en los que el punto R se sitúe a una altura superior a 540 mm en el caso de categorías
+L1e, L3e y L4e, o superior a 400 mm en el caso de las categorías L2e, L5e, L6e y L7e.
+4
+
+Art. 3, definiciones, número 96: «punto R» o «punto de referencia de la plaza de asiento»:
+punto previsto definido por el fabricante del vehículo para cada plaza de asiento y
+establecido con respecto al sistema de referencia tridimensional.
+El origen del sistema de referencia tridimensional de los vehículos de categoría L se ubica en la
+superficie de apoyo de los neumáticos, es decir, sobre el suelo. Midiéndose el punto R como el
+punto de unión entre la cadera y la cabeza del fémur de un usuario de dimensiones y peso percentil
+50 (75Kg), sentado en el asiento o a horcajadas en el sillín según la categoría del vehículo.
+
+kW/kg: al menos, permiso de conducción de la clase A1 o B con más
+de 3 años de antigüedad.
+o
+
+Motocicletas de prestaciones medias (L3e-A2) con potencia nominal o
+neta continua máxima ≤ 35 kW y una relación potencia/peso ≤ 0,2
+kW/kg.: al menos permiso de conducción de la clase A2.
+
+o
+
+Motocicletas de prestaciones altas (L3e-A3) vehículos de motor de dos
+ruedas que no puedan clasificarse dentro de las subcategorías L3e-A1
+y L3e-A2: permiso de conducción de la clase A.
+
+Por lo indicado, en los casos en los que se incumplan alguno o todos los requisitos
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+descritos, se deberán formular las oportunas denuncias por infracción muy grave al artículo
+1.1 del Reglamento General de Vehículos (opción 1.2.5A), con sanción de 500 €. Para
+conducir estos vehículos se requiere estar en posesión de permiso de conducción
+correspondiente, por lo que, en su caso procede denuncia por infracción al artículo 1.1 del
+Reglamento General de Conductores (opción 1.1.5A), con sanción de 500 €.
+Asimismo, se estima que en estos casos concurren los requisitos establecidos en los
+artículos 1.1 y 1.2 del Reglamento del seguro obligatorio de responsabilidad civil en la
+circulación de vehículos a motor, aprobado por Real Decreto 1507/2008, de 12 de
+septiembre, toda vez que se trata de un vehículo impulsado a motor que requeriría de
+autorización administrativa para circular (artículo 1.1), generador de un riesgo derivado de
+un hecho de la circulación (artículo 1.2). En consecuencia, procede formular denuncia por
+infracción a los artículos 2 y 3 del texto refundido de la Ley sobre responsabilidad civil y
+seguro en la circulación de vehículos a motor (opción SOA 2.1.5F, sancionado con 1.000 €).
+Además, el agente de la autoridad puede proceder a la inmovilización y depósito del
+vehículo, al encontrarse dentro de los supuestos contemplados en los artículos 104.1.a) y
+105.1.c) del Texto refundido de la LTSV.
+b) El aparato o vehículo, que aparentemente ofrece prestaciones superiores a un VMP, no
+cumple los requisitos del Reglamento (UE) nº 168/2013. En este caso, el vehículo no puede
+circular por las vías objeto de regulación. Procederá formular denuncia por carecer de
+
+autorización administrativa para circular (opción 1.1.5A), con sanción de 500 €. Así mismo,
+también procederá la inmovilización y el depósito.
+Dentro de este grupo se incluyen los casos de VMP que hayan sido manipulados para
+alterar la velocidad o las características técnicas.
+
+6.3. Denuncias a usuarios de vehículos de tipo L1e-A (ciclos de motor)
+En estos casos, se trata de un vehículo que aunque no tiene la categoría técnica de
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+ciclomotor, pero para el que se requiere de autorización administrativa para circular, seguro
+obligatorio y autorización administrativa para conducir (permiso de la clase AM), por lo que,
+en caso de faltar alguno o todos estos requisitos procederá formular denuncia por los
+motivos descritos en el apartado anterior.
+
+7. Comportamientos de circulación que deben ser objeto de
+denuncia
+Los comportamientos más frecuentemente detectados que suponen infracción a la
+normativa de tráfico en la actualidad son los siguientes:
+
+7.1. Circulación por aceras y zonas peatonales
+El artículo 121.1 del Reglamento General de Circulación establece que las zonas peatonales
+son los espacios de circulación exclusiva de los peatones, estando éstos obligados a
+transitar por ellas. Dada la consideración del peatón como usuario vulnerable de la vía, y
+teniendo en cuenta especialmente el mayor riesgo de vulnerabilidad de las personas con
+discapacidad y con movilidad reducida, las Administraciones públicas competentes deben
+velar porque estos espacios sean seguros para ellos.
+
+En este sentido, puestos en relación los apartados 4 y 5 del artículo 121 del Reglamento
+General de Circulación, se concluye que está prohibida la circulación de toda clase de
+vehículos por las aceras y demás zonas peatonales, cabiendo la excepción de
+circulación por estas partes de las vías cuando se trate únicamente de monopatines, patines
+a aparatos similares que lo hagan exclusivamente a paso de persona.
+Sin perjuicio de lo que puedan establecer las Ordenanzas Municipales en vías urbanas, en
+los supuestos objeto de la presente instrucción, la circulación en un VMP fuera de las
+excepciones previstas constituye infracción grave al artículo 121.5 del citado Reglamento
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+General de Circulación (opción 121.1.5A), sancionado con 200 €.
+
+7. 2. Infracciones relativas a tasas de alcohol y presencia de drogas
+Los conductores de VMP o de vehículos similares están obligados a someterse a las
+pruebas de detección de tasas de alcohol y de presencia de drogas, toda vez que el artículo
+14.2 del Texto refundido establece: “El conductor de un vehículo está obligado a someterse
+a las pruebas para la detección de alcohol o de la presencia de drogas en el organismo”. En
+principio, y salvo que la Fiscalía competente de la provincia pueda establecer otros criterios
+de cara a una posible imputación por delito tipificado en el artículo 379.2 del Código Penal, y
+que siempre serán de aplicación preferente, los casos de negativa a someterse a las
+pruebas serán denunciados como infracción al artículo 21.1 del Reglamento General de
+Circulación en caso de alcohol (opción 21.1.5F, con sanción de 500 o de 1.000 € según
+proceda), o al artículo 14.2 del Texto refundido de la Ley de Tráfico, en caso de drogas
+(opción LSV 14.2.5A, con sanción de 1.000 €).
+En el caso de que los conductores sometidos a las pruebas de detección de alcohol o
+presencia de drogas arrojen resultado positivo, procederá formular denuncia por infracción a
+los artículos 20.1 del Reglamento General de Circulación (opción 20.1.5A, con sanción de
+500 o de 1.000 € según proceda) o del artículo 14.1 del texto refundido (opción LSV
+14.1.5A), según se trate de alcohol o de drogas, respectivamente.
+
+En el caso de tasas de alcohol, se tendrá en cuenta lo siguiente:
+Se tomará como referencia la tasa general de 0,25 miligramos de alcohol por litro de
+
+
+
+aire espirado, salvo en los casos en los que el interesado disponga de autorización
+administrativa para conducir y conduzca un vehículo que entra dentro del ámbito de
+aplicación del Reglamento (UE) nº 168/2013. En este caso, se aplicará el régimen
+general de tasas del artículo 20 del Reglamento General de Circulación.
+Procedería aplicar, en su caso, la inmovilización y depósito del vehículo, de acuerdo
+
+
+
+con lo previsto en los artículos 104.1.d) y 105.1.c) del Texto refundido de la Ley de
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+Tráfico.
+
+7.3. Otros supuestos
+Con carácter general, a los conductores de los VMP o de vehículos ligeros propulsados por
+motores eléctricos se les aplican todas las obligaciones que la legislación de tráfico
+establece para los conductores de vehículos, excepto las previsiones expresas aplicables
+únicamente para los conductores de ciclos, ciclomotores o vehículos a motor.
+En este sentido, los agentes de la autoridad encargados de la vigilancia y disciplina del
+tráfico tendrán en cuenta los siguientes supuestos recogidos en el artículo 18.1 de texto
+reglamentario, que se refiere, con carácter general, a “conductores de vehículos”
+
+
+Teléfono móvil. El artículo 18.2 del Reglamento General de Circulación prohíbe la
+utilización durante la conducción de dispositivos de telefonía móvil y cualquier otro
+medio o sistema de comunicación por lo que procederá denuncia contra el
+conductor por infracción a este precepto (opción 12.2.5B, sanción de 200 €).
+
+
+
+Circular dos personas en un VMP. Teniendo en cuenta que el artículo 9.1 del
+Reglamento General de Circulación establece que “El número de personas
+transportadas en un vehículo no podrá ser superior al de las plazas que tenga
+
+autorizadas”, y que, por otra parte, el artículo 10.1 señala que “Está prohibido
+transportar personas en emplazamiento distinto al destinado y acondicionado para
+ellas en los vehículos”, en los casos en los que circulen dos o más personas en un
+VMP procederá formular denuncia por infracción al artículo 9.1 citado (opción
+9.1.5E, sanción de 100 €).
+
+
+Auriculares. El artículo 18.2 del Reglamento General de Circulación prohíbe,
+asimismo, conducir y utilizar cascos o auriculares conectados a aparatos receptores
+o reproductores de sonido, por lo que los casos detectados deberán ser objeto de
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+denuncia contra el conductor por este precepto (opción 12.2.5A, sanción de 200 €).
+
+
+Cascos y otros elementos de protección. En el caso de vehículos que estén
+dentro del ámbito de aplicación del Reglamento (UE) nº 168/2013, circular sin casco
+de protección es una infracción recogida en el 118.1 del Reglamento General de
+Circulación (opción 5A, sanción de 200 € y detracción de 3 puntos).
+En el caso de VMP, a falta en estos momentos de una regulación en el Reglamento
+General de Circulación, habrá que estar a lo que disponga la correspondiente
+Ordenanza municipal.
+En los supuestos de uso obligatorio de casco de protección también procede la
+inmovilización del vehículo de acuerdo con el artículo 104.1.c) del TLSV.
+
+
+
+Circulación nocturna sin alumbrado ni prendas o elementos reflectantes. En
+los supuestos en los que se circule con cualquiera de los vehículos objeto de la
+presente instrucción de noche o en situaciones de escasa visibilidad, y el agente
+constate que el vehículo en cuestión no dispone de ningún tipo de alumbrado
+operativo y, además, el usuario no lleve ni prendas ni elementos reflectantes que
+permitan ser visto por el resto de los conductores, el usuario no ha adoptado la
+diligencia y precaución necesarias para evitar ponerse en peligro, por lo procede
+formular denuncia por infracción al artículo 3.1 del Reglamento General de
+Circulación (opción 5C, con sanción de 200 €).
+
+
+
+Paradas y estacionamientos. A los vehículos objeto de la presente instrucción les
+es de aplicación el régimen de infracciones previsto en las normas sobre paradas y
+estacionamientos recogido en los artículos 90 y siguiente del Reglamento General
+de Circulación, y de acuerdo con lo que también recogen las Ordenanzas
+municipales de movilidad.
+
+
+
+Infracciones cometidas por menores de edad. En estos casos, hay que estar a
+lo que establece el artículo 82.b) de la LTSV: “Cuando la autoría de los hechos
+cometidos corresponda a un menor de dieciocho años, responderán solidariamente
+con él de la multa impuesta sus padres, tutores, acogedores y guardadores legales
+
+NAVARRO OLIVELLA PERE - 2019-12-03 18:49:43 CET
+La autenticidad del documento puede ser comprobada mediante el CSV: OIP_PUT25WC5UDB56P63Q9CJJBK2BCSW en http://www.pap.minhap.gob.es
+
+o de hecho, por este orden, en razón al incumplimiento de la obligación impuesta a
+éstos que conlleva un deber de prevenir la infracción administrativa que se impute a
+los menores.
+
+8. Disposición derogatoria
+Esta Instrucción deroga la Instrucción de la Dirección General de Tráfico 19-V/134 sobre
+matriculación de vehículos L1e-A.
+
+Lo que se comunica para general conocimiento.
+Madrid, 3 de diciembre de 2019
+EL DIRECTOR GENERAL DE TRÁFICO
+
+Pere Navarro Olivella
+
+----------------------------------------------------------------------
+
+### INFORME MINISTERI INTERIOR — Immobilització VMP sense assegurança (març 2026)
+
+MINISTERIO
+DEL INTERIOR
+UNIDAD DE NORMATIVA
+
+UN-VG
+
+En contestación a consulta recibida por esta Unidad de Normativa, de fecha 2 de marzo de
+2026, relativa a la posibilidad de inmovilizar un vehículo de movilidad personal (VMP) por carecer
+del seguro obligatorio, se participa lo siguiente:
+Conforme a lo dispuesto en el artículo 2 del texto refundido de la ley sobre Tráfico,
+Circulación de Vehículos a Motor y Seguridad Vial, aprobado por Real Decreto Legislativo 6/2015,
+de 30 de octubre (en adelante, TRLSV), el ámbito de aplicación de dicha norma se extiende a todo
+el territorio nacional, siendo de obligado cumplimiento para todos los usuarios de las vías y terrenos
+públicos aptos para la circulación. A estos efectos, el Anexo I del propio TRLSV, define como
+vehículo todo aparato apto para circular por dichas vías, categoría que comprende a los vehículos
+de movilidad personal (VMP), entendidos como aquellos dotados de una o más ruedas, con una
+única plaza y propulsados exclusivamente por motores eléctricos.
+Sentado lo anterior, la Ley 5/2025, de 24 de julio, por la que se modifican el texto refundido
+de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobado por
+el Real Decreto Legislativo 8/2004, de 29 de octubre, y la Ley 20/2015, de 14 de julio, de ordenación,
+supervisión y solvencia de las entidades aseguradoras y reaseguradoras ha introducido una
+modificación sustancial en el régimen de responsabilidad civil derivada de la circulación,
+estableciendo la obligación de suscribir y mantener en vigor un seguro de responsabilidad civil para
+los vehículos personales ligeros que circulen por vías públicas.
+En desarrollo de dicha previsión, el Real Decreto 52/2026, de 28 de enero, por el que se
+modifica el Reglamento General de Vehículos y el Real Decreto 2822/1998, de 23 de diciembre,
+que lo aprueba, para regular el Registro de Vehículos Personales Ligeros ha modificado el
+Reglamento General de Vehículos, creando el Registro de Vehículos Personales Ligeros y
+vinculando el cumplimiento de la obligación de aseguramiento a la previa inscripción del vehículo
+en dicho registro. En consecuencia, la circulación de un VMP sin disponer del correspondiente
+seguro obligatorio constituye una infracción de la normativa de tráfico que habilita a los agentes de
+la autoridad para adoptar de forma inmediata las medidas cautelares previstas en el artículo 104.1.e)
+del TRLSV, pudiendo proceder a la inmovilización del vehículo, asimismo, de acuerdo con el artículo
+105.1 letras c) y d) del TRLSV, la autoridad encargada de la gestión del tráfico podrá acordar la
+retirada del vehículo de la vía y su depósito, entre otros, en los siguientes casos:
+“c) Cuando, procediendo legalmente la inmovilización del vehículo, no hubiere lugar
+adecuado para practicarla sin obstaculizar la circulación de vehículos o personas.
+d) Cuando, inmovilizado un vehículo de acuerdo con lo dispuesto en el artículo 104, no
+cesasen las causas que motivaron la inmovilización.”
+Por todo lo expuesto, cabe concluir conforme a la normativa vigente, que la circulación de
+un VMP sin seguro obligatorio legitima la adopción de medidas cautelares de inmovilización, retirada
+y depósito, en los términos previstos en los artículos 104 y 105 del TRLSV.
+Todo lo cual es informado por esta Unidad de Normativa a los efectos oportunos.
+EL JEFE DE LA UNIDAD DE NORMATIVA
+Francisco de las Alas-Pumariño Linde
+
+Xavier López i Orós
+Cap del Servei d’Assessorament Jurídic i Recursos
+Servei Català de Trànsit Xlopezor@gencat.cat
+C/ Josefa Valcárcel, 44
+28027 MADRID
+
+CSV : GEN-8e2d-303a-25a2-0d1e-7c32-37e4-e7d7-1184
+DIRECCIÓN DE VALIDACIÓN : https://run.gob.es/hsblF8yLcR
+FIRMANTE(1) : FRANCISCO DE LAS ALAS-PUMARIÑO LINDE | FECHA : 23/03/2026 16:36 | Sin acción específica
+
+----------------------------------------------------------------------
